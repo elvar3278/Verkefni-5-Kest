@@ -30,4 +30,10 @@
 17. no
 18. Yes because now i have full control
 
-## 
+## 13.3.4.6
+1. Yes
+2. Windows Firewall provides protection against unauthorized access and network attacks.
+3. Too much
+4. No
+5. Yeah if there was a problem with the spelling or the network
+6. 
