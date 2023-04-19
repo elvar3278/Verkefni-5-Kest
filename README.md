@@ -1,10 +1,8 @@
 # Verkefni-5-Kest
-1. Save BitLocker recovery key to unlock drive if password lost.
-2. TPM validates boot process, encrypts BitLocker keys for secure storage.
-
 
 ## 13.2.3.7 Bitlocker and Bitlocker To Go
-
+1. Save BitLocker recovery key to unlock drive if password lost.
+2. TPM validates boot process, encrypts BitLocker keys for secure storage.
 
 ## 13.3.2.5 Configure Windows Local Security Policy
 1. It only takes five tries and you woill have to wait then 5 minutes before attempting again
