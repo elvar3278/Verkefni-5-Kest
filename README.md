@@ -1,4 +1,7 @@
 # Verkefni-5-Kest
+1. Save BitLocker recovery key to unlock drive if password lost.
+2. TPM validates boot process, encrypts BitLocker keys for secure storage.
+
 
 ## 13.2.3.7 Bitlocker and Bitlocker To Go
 
