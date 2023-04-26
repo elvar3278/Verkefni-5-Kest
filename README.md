@@ -36,4 +36,7 @@
 3. Too much
 4. No
 5. Yeah if there was a problem with the spelling or the network
-6. 
+6. No i cannot
+7. 
+8. Redirect, Time exceded, destenation unreacheble, echo request
+9. Netwokr issues or just issues with your pc
